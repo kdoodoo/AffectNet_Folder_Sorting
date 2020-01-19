@@ -11,3 +11,9 @@ Sort AffectNet facial images
 
 AffectNet: 
 http://mohammadmahoor.com/affectnet/
+
+
+
+
+# Affectnet_Crop_Right.py 
+Crop images, leaving right side of the facial images. 
